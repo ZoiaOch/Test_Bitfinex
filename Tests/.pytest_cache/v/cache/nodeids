@@ -1,6 +1,0 @@
-[
-  "test_bitfinex.py::TestBitfinex::()::test_btcusd_price",
-  "test_bitfinex.py::TestBitfinex::()::test_symbols_list_len",
-  "test_bitfinex.py::TestBitfinex::()::test_symbols_higth_rate",
-  "test_bitfinex.py::TestBitfinex::()::test_symbols_low_rate"
-]
