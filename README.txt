@@ -1,6 +1,6 @@
-Для запуска тестов необходимо:
-- установить python3
-- выполнить requirements (pip install -r requirements.txt)
+To start tests:
+- install python3
+- carry out the requirements (pip install -r requirements.txt)
 
-Быстрый старт из папки с файлом test_bitfinex.py:
+Quick start from the folder with "test_bitfinex.py" file:
 pytest -v -l test_bitfinex.py
